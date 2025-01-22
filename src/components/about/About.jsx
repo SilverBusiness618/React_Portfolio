@@ -37,16 +37,16 @@ const About = () => {
               Here are a few technologies I’ve been working with recently:
             </p>
             <ul className="about__list">
-              <li>JavaScript (ES6+) / TypeScript</li>
-              <li>C# / ASP / .Net</li>
-              <li>React</li>
-              <li>Angular</li>
-              <li>Vue</li>
-              <li>Node.js</li>
-              <li>Postgres SQL</li>
-              <li>NextJS</li>
-              <li>Python</li>
-              <li>DJango / Flask</li>
+              <li>JavaScript, TypeScript, HTML5, CSS3</li>
+              <li>C#, ASP, .Net, DJango</li>
+              <li>Node, Python, ORM</li>
+              <li>React Next, Electron, Vue, Angular</li>
+              <li>REST API, GraphQL</li>
+              <li>Docker, AWS</li>
+              <li>Postgres SQL, MongoDB, MySQL</li>
+              <li>Tailwind,SASS, ARIA, Charts</li>
+              <li>Data Structure & Algorithms</li>
+              <li>Git, CI/CD, Webpack, NPM</li>
             </ul>
             <button className="btn" onClick={downloadResume}>
               Donwload CV
