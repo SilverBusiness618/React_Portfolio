@@ -3,15 +3,13 @@
   <a href="http://gregsithole.com">
   <img src="./src/assets/light-logo.svg" alt="GregSithole" width="200"></a>
   <br>
-  Greg Sithole's Personal Website
+  Alysson's Personal Website
   <br>
 </h1>
 
-<h4 align="center">A simple personal website about <a href="http://gregsithole.com" target="_blank">Greg Sithole</a>.</h4>
+<h4 align="center">A simple personal website about <a href="http://gregsithole.com" target="_blank">Alysson Silva</a>.</h4>
 
 <br>
-
-![screenshot](https://github.com/GregSithole/gregsithole-react-portfolio/raw/master/src/assets/screenshot.png)
 
 ## How To Use
 
