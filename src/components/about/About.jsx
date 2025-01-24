@@ -7,6 +7,7 @@ import AboutBox from "./AboutBox";
 
 const About = () => {
   const downloadResume = async () => {
+    return;
     window.open(Resume, "_blank");
   };
 
