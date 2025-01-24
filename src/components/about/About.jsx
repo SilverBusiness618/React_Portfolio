@@ -20,7 +20,7 @@ const About = () => {
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              Hello! I'm Rivaldo Sabino, and I'm based in Olinda, Brazil. I hold
+              Hello! I'm Alysson Silva, and I'm based in Olinda, Brazil. I hold
               a bachelor's degree in Computer Science from the University of the
               Cordilleras in the Philippines.
               <br />
