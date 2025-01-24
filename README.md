@@ -7,7 +7,7 @@
   <br>
 </h1>
 
-<h4 align="center">A simple personal website about <a href="http://gregsithole.com" target="_blank">Alysson Silva</a>.</h4>
+<h4 align="center">A simple personal website about <a href="http://alyssonmedeiros.vercel.app" target="_blank">Alysson Silva</a>.</h4>
 
 <br>
 
@@ -17,7 +17,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/GregSithole/gregsithole-react-portfolio
+$ git clone https://github.com/SilverBusiness618/React_Portfolio.git
 
 # Go into the repository
 $ cd gregsithole-react-portfolio
