@@ -19,7 +19,7 @@ const Blog = () => {
                         <div className="blog__meta">
                             <span>09 February, 2022</span>
                             <span className="blog__dot">.</span>
-                            <span>Greg</span>
+                            <span>Alysson</span>
                         </div>
                     </div>
                 </div>

@@ -12,26 +12,26 @@ const About = () => {
 
   return (
     <section className="about container section" id="about">
-      <h2 className="section__title">About Me </h2>
+      <h2 className="section__title">About Me</h2>
 
       <div className="about__container grid">
-        <img src={WorkME} alt="" className="about__img" />
+        <img src={Image} alt="" className="about__img" />
 
         <div className="about__data grid">
           <div className="about__info">
             <p className="about__description">
-              Hello! I'm Alysson Silva, and I'm based in Olinda, Brazil. I hold
-              a bachelor's degree in Computer Science from the University of the
-              Cordilleras in the Philippines.
+              Hello! I'm Alysson Medeiros, and I'm based in Recipe, Brazil. I
+              hold a Bachelor of Science in Computer Science from the University
+              of Caloocan City in the Philippines.
               <br />
               <br />
-              I am a Professional Full-Stack Developer with extensive experience
-              in building dynamic and responsive web applications. My expertise
+              I am a Senior Full-Stack Developer with extensive experience in
+              building dynamic and responsive web and mobile applications. My expertise
               spans both frontend and backend technologies, enabling me to
               create seamless user experiences and robust server-side logic.
-              <br/>
+              <br />
               Fastforward to today, and I can honestly say it's been a beautiful
-              journery and I hope to grow even further as Software Engineer.
+              journery and I hope to grow even further as Full Stack Developer.
               <br />
               <br />
               Here are a few technologies I’ve been working with recently:
@@ -40,11 +40,11 @@ const About = () => {
               <li>JavaScript, TypeScript, HTML5, CSS3</li>
               <li>C#, ASP, .Net, DJango</li>
               <li>Node, Python, ORM</li>
-              <li>React Next, Electron, Vue, Angular</li>
-              <li>REST API, GraphQL</li>
+              <li>React, Next, Electron, Vue, Angular</li>
+              <li>RESTful API, GraphQL</li>
               <li>Docker, AWS</li>
               <li>Postgres SQL, MongoDB, MySQL</li>
-              <li>Tailwind,SASS, ARIA, Charts</li>
+              <li>Tailwind, SASS, ARIA, Charts</li>
               <li>Data Structure & Algorithms</li>
               <li>Git, CI/CD, Webpack, NPM</li>
             </ul>
