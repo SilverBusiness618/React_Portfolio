@@ -1,9 +1,9 @@
 const WorkExperience = [
     {
         id: 1,
-        title: "Software Engineer",
-        company: "Netreo",
-        yearsActive: "May 2022 - Nov 2024",
+        title: "Senior Full Stack Developer - Remote",
+        company: "NuWare - Iselin, NJ, United States",
+        yearsActive: "Mar 2024 - present",
         information: [
             "Developed and optimized core application features using React, Node.js, and Express, ensuring seamless frontend-backend integration.",
             "Leveraged AWS cloud services and Kubernetes to ensure high availability and scalability of monitoring applications.",
@@ -12,9 +12,9 @@ const WorkExperience = [
     },
     {
         id: 2,
-        title: "Full Stack Developer",
-        company: "BearPlex",
-        yearsActive: "Apr 2019 - Mar 2022",
+        title: "Full Stack Developer - Remote",
+        company: "Company-X -   Sacramento, CA, United States",
+        yearsActive: "Jan 2022 – Feb 2024",
         information: [
             "Successfully delivered AI-driven applications that improved client operations and user engagement.",
             "Integrated REST APIs for seamless communication between frontend and backend services, reducing data load times by 30%",
@@ -23,9 +23,9 @@ const WorkExperience = [
     },
     {
         id: 3,
-        title: "Software Developer",
-        company: "High6",
-        yearsActive: "Mar 2018 – Mar 2019",
+        title: "Back End Developer - Onsite",
+        company: "SyntacticE - Bacolod, Philippine",
+        yearsActive: "Jan 2021 – Dec 2021",
         information: [
             "Planned, developed, tested, deployed, and maintained web applications and mobile applications",
             "Worked well independently and on a team to solve problems."
@@ -33,9 +33,9 @@ const WorkExperience = [
     },
     {
         id: 4,
-        title: "Junior Software Developer",
-        company: "High6",
-        yearsActive: "Oct 2017 - Feb 2018",
+        title: "Back End Developer - Internship",
+        company: "Accenture - Manila, Philippine",
+        yearsActive: "May 2020 – Dec 2020",
         information: [
             "Served as a dedicated and supportive Intern in a fast-paced environment",
             "Worked to solve complex problems using the latest in Mobile and Web Technologies.",
